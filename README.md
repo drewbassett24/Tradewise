@@ -2,20 +2,27 @@
 # Tradewise - Full Stack Web Application
 
 # Table of Contents
-- [Description](#description)
-- [Installation](#installation)
-- [Instructions](#instructions)
-- [Credits](#credits)
-- [Contributions](#contributions)
-- [Tests](#tests)
-- [License](#license)
+- [Tradewise - Full Stack Web Application](#tradewise---full-stack-web-application)
+- [Table of Contents](#table-of-contents)
+  - [- License](#--license)
+  - [Screenshot of deployed app:](#screenshot-of-deployed-app)
+  - [Description:](#description)
+  - [Installation:](#installation)
+    - [desktop](#desktop)
+    - [npm](#npm)
+  - [Instructions:](#instructions)
+  - [Credits:](#credits)
+      - [Development Team](#development-team)
+  - [Contributions:](#contributions)
+  - [Tests:](#tests)
+  - [License:](#license)
 ---
 ## Screenshot of deployed app:
 ![Screenshot of working tradewise app](/public/images/projectscreenshot.PNG)
 
 You can access the Tradewise app [here](https://uob-tradewise.herokuapp.com/dashboard)
 
-You can access the GitHub Repo via [this link](https://github.com/kvtemadden/tradewise)
+You can access the GitHub Repo via [this link](https://github.com/drewbassett24/tradewise)
 
 ## Description:
 
